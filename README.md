@@ -5,7 +5,7 @@ Note that the regularization tools (regtools) the pulse designer relies on are o
 
 If you use the toolbox, please consider citing the following paper:
 
-Qu S, et al. Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils. submitted to MRM. 
+Qu S, Liu J, van Gelderen P, de Zwart JA, Duyn JH, Waks M, Lagore R, Bratch A, Grant A, Auerbach E, Delabarre L, Sadeghi-Tarakameh A, Eryaman Y, Adriany G, Ugurbil K, Wu X. Advancing whole-brain BOLD functional MRI in humans at 10.5 T with motion-robust 3D echo-planar imaging, parallel transmission, and high-density radiofrequency receive coils. Magn Reson Med. 2025 Oct 17. doi: 10.1002/mrm.70110. 
 
 
 ### Copyright & License Notice
